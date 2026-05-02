@@ -1,3 +1,6 @@
+_G.GitUsername = "Chris12980"
+_G.Repository = "atlasbss"
+_G.File = "atlas.lua"
 ---Infinitely waits for an object to exist inside the path and then returns it
 local function await(object: Instance, ...: string): Instance
     local Result = object
